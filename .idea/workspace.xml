@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ef73c657-b517-48ae-9642-c12efe36f4c0" name="默认更改列表" comment="update">
       <change afterPath="$PROJECT_DIR$/src/M2/D18/ADV214.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/M2/D18/ADV228.java" afterDir="false" />
@@ -18,6 +19,9 @@
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="ef73c657-b517-48ae-9642-c12efe36f4c0" name="默认更改列表" comment="update" />
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +30,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -63,6 +68,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -78,6 +85,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -135,6 +143,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="161" />
     <option name="y" value="-8" />
@@ -143,6 +153,7 @@
   </component>
   <component name="ProjectId" id="1nVf7e2SGqEs2zjzlK0wGgr3tdA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -181,6 +192,8 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+=======
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -193,6 +206,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -212,6 +226,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="M2.D21.*" />
+=======
+  <component name="RunManager" selected="Application.ADV211">
+    <configuration name="ADV211" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2.D22.ADV211" />
+      <module name="LQtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="M2.D22.*" />
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,8 +242,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ADV159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="M2.D21.ADV159" />
+=======
+    <configuration name="ADV280" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2.D11.ADV280" />
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
       <module name="LQtest" />
       <extension name="coverage">
         <pattern>
@@ -273,11 +301,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.ADV138" />
         <item itemvalue="Application.ADV159" />
         <item itemvalue="Application.ADV171" />
         <item itemvalue="Application.ADV175" />
         <item itemvalue="Application.ADV178" />
+=======
+        <item itemvalue="Application.ADV211" />
+        <item itemvalue="Application.ALGO117" />
+        <item itemvalue="Application.ALGO123" />
+        <item itemvalue="Application.ALGO126" />
+        <item itemvalue="Application.ADV280" />
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
       </list>
     </recent_temporary>
   </component>
@@ -324,6 +360,7 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="76915000" />
   </component>
@@ -362,6 +399,8 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
+=======
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -374,21 +413,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="392" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611482953604" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1611551522803">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1613992568298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611551522803" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1611551522803">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1613992568298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611551522803" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1611551522803">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1613992568298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611551522803" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1611551522803">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1613992568298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+<<<<<<< HEAD
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611551522803" />
   </component>
   <component name="XDebuggerManager">
@@ -786,5 +826,8 @@
         </state>
       </provider>
     </entry>
+=======
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
+>>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
   </component>
 </project>
