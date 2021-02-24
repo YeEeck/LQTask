@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="ef73c657-b517-48ae-9642-c12efe36f4c0" name="默认更改列表" comment="update">
       <change afterPath="$PROJECT_DIR$/src/M2/D18/ADV214.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/M2/D18/ADV228.java" afterDir="false" />
@@ -22,6 +23,14 @@
 =======
     <list default="true" id="ef73c657-b517-48ae-9642-c12efe36f4c0" name="默认更改列表" comment="update" />
 >>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
+=======
+    <list default="true" id="ef73c657-b517-48ae-9642-c12efe36f4c0" name="默认更改列表" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/M2/D23/ADV133.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/M2/D23/ADV133.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/M2/D23/ADV182.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/M2/D23/ADV182.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/M2/D23/ADV183.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/M2/D23/ADV183.java" afterDir="false" />
+    </list>
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,6 +216,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -235,6 +245,15 @@
         <pattern>
           <option name="PATTERN" value="M2.D22.*" />
 >>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
+=======
+  <component name="RunManager" selected="Application.ADV133">
+    <configuration name="ADV133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2.D23.ADV133" />
+      <module name="LQtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="M2.D23.*" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,6 +261,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <configuration name="ADV159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="M2.D21.ADV159" />
@@ -253,6 +273,14 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="M2.D21.*" />
+=======
+    <configuration name="ADV182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2.D23.ADV182" />
+      <module name="LQtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="M2.D23.*" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +288,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ADV171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="M2.D19.ADV171" />
       <module name="LQtest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="M2.D19.*" />
+=======
+    <configuration name="ADV183" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2.D23.ADV183" />
+      <module name="LQtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="M2.D23.*" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +310,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ADV175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="M2.D19.ADV175" />
       <module name="LQtest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="M2.D19.*" />
+=======
+    <configuration name="ADV211" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2.D22.ADV211" />
+      <module name="LQtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="M2.D22.*" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,8 +332,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ADV178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="M2.D19.ADV178" />
+=======
+    <configuration name="ALGO117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2.D16.ALGO117" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
       <module name="LQtest" />
       <extension name="coverage">
         <pattern>
@@ -302,6 +353,7 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item itemvalue="Application.ADV138" />
         <item itemvalue="Application.ADV159" />
         <item itemvalue="Application.ADV171" />
@@ -314,6 +366,13 @@
         <item itemvalue="Application.ALGO126" />
         <item itemvalue="Application.ADV280" />
 >>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
+=======
+        <item itemvalue="Application.ADV133" />
+        <item itemvalue="Application.ADV182" />
+        <item itemvalue="Application.ADV183" />
+        <item itemvalue="Application.ADV211" />
+        <item itemvalue="Application.ALGO117" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +410,18 @@
       <workItem from="1612879743932" duration="3282000" />
       <workItem from="1613020002712" duration="5201000" />
       <workItem from="1613484326623" duration="672000" />
+<<<<<<< HEAD
       <workItem from="1613564965381" duration="1216000" />
       <workItem from="1613566207008" duration="14000" />
       <workItem from="1613658080005" duration="1447000" />
       <workItem from="1613741093506" duration="1749000" />
       <workItem from="1613890149210" duration="1193000" />
       <workItem from="1613906386828" duration="5017000" />
+=======
+      <workItem from="1613993361171" duration="179000" />
+      <workItem from="1614074176617" duration="2999000" />
+      <workItem from="1614098917856" duration="43000" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
     </task>
     <servers />
   </component>
@@ -413,21 +478,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="392" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611482953604" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1613992568298">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1614082075547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1613992568298">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1614082075547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1613992568298">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1614082075547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1613992568298">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1614082075547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1614082075547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1614082075547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1614082075547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1614082075547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611551522803" />
   </component>
@@ -829,5 +911,8 @@
 =======
     <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613992568298" />
 >>>>>>> a13a9c323fba9d557746d28f89737ad94356eb13
+=======
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614082075547" />
+>>>>>>> 380b45e40cbf7488bb8975713f4fdda6e280cf8e
   </component>
 </project>
