@@ -2,7 +2,7 @@ package M2.D28;
 
 import java.util.Scanner;
 
-public class PREV48 {
+public class PREV48_OutOfTime {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         scanner.nextInt();

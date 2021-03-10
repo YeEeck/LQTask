@@ -3,7 +3,7 @@ package M3.D8;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class ADV380 {
+public class ADV380_Failed {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat();
