@@ -6,14 +6,12 @@ class road {
     int city1, city2;
 }
 
-public class PREV9 {
+public class PREV9_F {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
 
     }
 
-    static int dfs(int startCity, int len, int form) {
-        
-    }
+
 }

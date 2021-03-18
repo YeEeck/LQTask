@@ -1,4 +1,4 @@
-package M3;
+package M3.D18;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 
-public class PREV22 {
+public class PREV22_Timeout {
     static class Ld {
         int u, v, w;
 
